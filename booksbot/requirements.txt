@@ -1,0 +1,3 @@
+itemadapter==0.1.0
+pgpipeline @ git+https://github.com/jondot/pgpipeline.git@de7bad945038048e004537f4dc487814da832a71
+psycopg2==2.8.6
