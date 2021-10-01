@@ -1,0 +1,3 @@
+# spiders
+
+Playing with scrapy
